@@ -2,7 +2,7 @@
 - 👀 I’m interested in JAVA 
 - 🌱 I’m currently learning full JAVA course 
 - 💞️ I’m looking to collaborate on java
-- 📫 How to reach me 9471458227
+- 📫 How to reach me 9471458227 or neeleshkumarm98@gmail.com
 
 <!---
 Neelesh947/Neelesh947 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
